@@ -1,0 +1,1 @@
+# Handwritten-Text-Recognition-For-Multi-Language-Using-TrOCR-with-LSTM
